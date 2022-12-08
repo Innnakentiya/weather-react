@@ -1,4 +1,3 @@
-//import logo from "./logo.svg";
 import "./App.css";
 //import axios from "axios";
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -16,6 +15,7 @@ function App() {
           <a
             href="https://github.com/Innnakentiya/weather-react"
             target="_blank"
+            rel="noreferrer"
           >
             Open-source code
           </a>
