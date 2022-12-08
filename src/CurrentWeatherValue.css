@@ -1,0 +1,24 @@
+ul {
+  list-style: none;
+  padding-left: 0;
+  color: white;
+  /* margin-bottom: 0;*/
+}
+#humidity,
+#wind,
+#current-temperature {
+  font-size: 18px;
+  font-weight: 500;
+}
+.current-day {
+  font-size: 30px;
+  color: white;
+}
+.current-day-temperature {
+  color: white;
+  font-size: 30px;
+  font-weight: bolder;
+}
+.temperature-description {
+  color: white;
+}

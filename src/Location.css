@@ -1,0 +1,13 @@
+h1 {
+  /*color: #878787;*/
+  color: white;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 28px;
+  margin-bottom: 100px;
+  margin-top: 10px;
+}
+.city {
+  font-family: "DynaPuff", cursive;
+  font-family: "Finger Paint", cursive;
+}

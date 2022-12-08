@@ -1,0 +1,5 @@
+.weather-forecast {
+  background: linear-gradient(to right, #d7d2cc 0%, #304352 100%);
+  border-radius: 10px;
+  /*box-shadow: 4px 2px 2px #c1b9ae;*/
+}

@@ -1,0 +1,12 @@
+hr {
+  height: 3px;
+  opacity: 1;
+  background-color: white;
+  margin: 0;
+}
+
+.current-weather-forecast {
+  background: linear-gradient(to right, #d7d2cc 0%, #304352 100%);
+  border-radius: 10px;
+  padding: 20px;
+}

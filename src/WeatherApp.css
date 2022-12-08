@@ -1,0 +1,13 @@
+.weather-app {
+  max-width: 800px;
+  margin: 30px auto;
+  padding: 30px;
+  border: 1px solid #878787;
+  border-radius: 5px;
+  box-shadow: 4px 2px 2px #c1b9ae;
+  /*background-color: #ffffff;*/
+  background: linear-gradient(to right, #868f96 0%, #596164 100%);
+}
+/*hr {
+  color: white;
+}*/
