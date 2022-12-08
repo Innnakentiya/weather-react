@@ -13,7 +13,10 @@ function App() {
       </div>
       <div className="footer">
         <small className="notation">
-          <a href="#" target="_blank">
+          <a
+            href="https://github.com/Innnakentiya/weather-react"
+            target="_blank"
+          >
             Open-source code
           </a>
           ",by" Inna V.
